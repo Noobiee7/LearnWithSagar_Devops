@@ -1,1 +1,4 @@
+<<<<<<< HEAD
+featur2
 feature
+>>>>>>> feature
